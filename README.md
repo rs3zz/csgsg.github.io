@@ -1,4 +1,5 @@
-## UVa CS Graduate Student Group
+## CSGSG
+CS Graduate Student Group at the University of Virginia
 
 ### Upcoming Events
 **01/26/2018**
