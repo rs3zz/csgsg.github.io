@@ -39,6 +39,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### CSGSG Officers
 Minbiao Han, Jack Lanchantin, Ritambhara Singh, Weilin Xu
 
+Photos
+
 <p float="left">
   <img src="http://www.cs.virginia.edu/~mh2ye//assets/img/MinbiaoHan.jpg" width="100" />
   <img src="http://bme.virginia.edu/bds/JackL.jpg" width="100" /> 
