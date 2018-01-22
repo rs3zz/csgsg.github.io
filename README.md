@@ -43,12 +43,17 @@ Minbiao Han, Jack Lanchantin, Ritambhara Singh, Weilin Xu
 .img-circle {
     border-radius: 50%;
 }
+.img-crop {
+  object-fit: cover;
+  width:700px;
+  height:700px;
+}
 </style>
 
 <p float="left">
   <img src="http://www.cs.virginia.edu/~mh2ye//assets/img/MinbiaoHan.jpg" width="100" class="img-circle" />
   <img src="http://bme.virginia.edu/bds/JackL.jpg" width="100" class="img-circle" /> 
   <img src="https://ritambharasingh.files.wordpress.com/2017/01/cropped-singhritambhara.jpg" width="100" class="img-circle" />
-  <img src="https://xuweilin.org/images/weilin_thumbnail.JPG" width="100" class="img-circle" />
+  <img src="https://xuweilin.org/images/weilin_thumbnail.JPG" width="100" class="img-crop img-circle" />
 </p>
 
