@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## UVa CS Graduate Student Group
 
 You can use the [editor on GitHub](https://github.com/csgsg/csgsg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
