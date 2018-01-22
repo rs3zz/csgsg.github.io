@@ -1,5 +1,36 @@
 ## UVa CS Graduate Student Group
 
+### Upcoming Events
+**01/26/2018**
+
+*4-5pm*: Suya will host tea time on Rice 4th floor.
+
+### CSGSG Officers
+
+<style >
+.img-circle {
+    border-radius: 50%;
+}
+.img-crop {
+  object-fit: cover;
+  width:100px;
+  height:100px;
+}
+</style>
+
+<p float="left">
+  <img src="http://www.cs.virginia.edu/~mh2ye//assets/img/MinbiaoHan.jpg" class="img-crop img-circle" width="100" />
+  <img src="http://bme.virginia.edu/bds/JackL.jpg" class="img-crop img-circle" width="100" /> 
+  <img src="https://ritambharasingh.files.wordpress.com/2017/01/cropped-singhritambhara.jpg" class="img-crop img-circle"  width="100" />
+  <img src="https://xuweilin.org/images/weilin_thumbnail.JPG" class="img-crop img-circle" width="100" />
+</p>
+
+Minbiao Han, Jack Lanchantin, Ritambhara Singh, Weilin Xu
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/csgsg/csgsg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -36,25 +67,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-### CSGSG Officers
-
-<style >
-.img-circle {
-    border-radius: 50%;
-}
-.img-crop {
-  object-fit: cover;
-  width:100px;
-  height:100px;
-}
-</style>
-
-<p float="left">
-  <img src="http://www.cs.virginia.edu/~mh2ye//assets/img/MinbiaoHan.jpg" class="img-crop img-circle" width="100" />
-  <img src="http://bme.virginia.edu/bds/JackL.jpg" class="img-crop img-circle" width="100" /> 
-  <img src="https://ritambharasingh.files.wordpress.com/2017/01/cropped-singhritambhara.jpg" class="img-crop img-circle"  width="100" />
-  <img src="https://xuweilin.org/images/weilin_thumbnail.JPG" class="img-crop img-circle" width="100" />
-</p>
-
-Minbiao Han, Jack Lanchantin, Ritambhara Singh, Weilin Xu
 
