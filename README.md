@@ -39,10 +39,15 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### CSGSG Officers
 Minbiao Han, Jack Lanchantin, Ritambhara Singh, Weilin Xu
 
+<style type="text/css">
+.img-circle {
+    border-radius: 50%;
+}
+</style>
 <p float="left">
-  <img src="http://www.cs.virginia.edu/~mh2ye//assets/img/MinbiaoHan.jpg" width="100" />
-  <img src="http://bme.virginia.edu/bds/JackL.jpg" width="100" /> 
-  <img src="https://ritambharasingh.files.wordpress.com/2017/01/cropped-singhritambhara.jpg" width="100" />
-  <img src="https://xuweilin.org/images/weilin_thumbnail.JPG" width="100" />
+  <img src="http://www.cs.virginia.edu/~mh2ye//assets/img/MinbiaoHan.jpg" width="100" class="img-circle" />
+  <img src="http://bme.virginia.edu/bds/JackL.jpg" width="100" class="img-circle" /> 
+  <img src="https://ritambharasingh.files.wordpress.com/2017/01/cropped-singhritambhara.jpg" width="100" class="img-circle" />
+  <img src="https://xuweilin.org/images/weilin_thumbnail.JPG" width="100" class="img-circle" />
 </p>
 
