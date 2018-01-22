@@ -45,15 +45,15 @@ Minbiao Han, Jack Lanchantin, Ritambhara Singh, Weilin Xu
 }
 .img-crop {
   object-fit: cover;
-  width:700px;
-  height:700px;
+  width:100px;
+  height:100px;
 }
 </style>
 
 <p float="left">
-  <img src="http://www.cs.virginia.edu/~mh2ye//assets/img/MinbiaoHan.jpg" width="100" class="img-circle" />
-  <img src="http://bme.virginia.edu/bds/JackL.jpg" width="100" class="img-circle" /> 
-  <img src="https://ritambharasingh.files.wordpress.com/2017/01/cropped-singhritambhara.jpg" width="100" class="img-circle" />
-  <img src="https://xuweilin.org/images/weilin_thumbnail.JPG" class="img-crop img-circle" width="100"  />
+  <img src="http://www.cs.virginia.edu/~mh2ye//assets/img/MinbiaoHan.jpg" class="img-crop img-circle" />
+  <img src="http://bme.virginia.edu/bds/JackL.jpg" class="img-crop img-circle" /> 
+  <img src="https://ritambharasingh.files.wordpress.com/2017/01/cropped-singhritambhara.jpg" class="img-crop img-circle" />
+  <img src="https://xuweilin.org/images/weilin_thumbnail.JPG" class="img-crop img-circle" />
 </p>
 
