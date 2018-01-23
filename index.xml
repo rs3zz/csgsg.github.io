@@ -6,10 +6,19 @@
     <description>Recent content on UVa CSGSG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jan 2018 09:56:32 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2018 12:36:21 -0500</lastBuildDate>
     
 	<atom:link href="http://csgsg.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lounge</title>
+      <link>http://csgsg.github.io/lounge/</link>
+      <pubDate>Tue, 23 Jan 2018 12:36:21 -0500</pubDate>
+      
+      <guid>http://csgsg.github.io/lounge/</guid>
+      <description>We should have a comfortable lounge to stay when we don&amp;rsquo;t want to study.</description>
+    </item>
     
     <item>
       <title>UVa CS Tea Time</title>
