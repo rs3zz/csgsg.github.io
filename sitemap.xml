@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://csgsg.github.io/hugo/categories/</loc>
+    <loc>http://csgsg.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://csgsg.github.io/hugo/tags/</loc>
+    <loc>http://csgsg.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://csgsg.github.io/hugo/</loc>
+    <loc>http://csgsg.github.io/</loc>
     <priority>0</priority>
   </url>
   
