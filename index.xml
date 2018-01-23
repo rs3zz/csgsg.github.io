@@ -6,9 +6,21 @@
     <description>Recent content on UVa CSGSG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jan 2018 09:56:32 -0500</lastBuildDate>
     
 	<atom:link href="http://csgsg.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>UVA CS Tea Time</title>
+      <link>http://csgsg.github.io/teatime/</link>
+      <pubDate>Tue, 23 Jan 2018 09:56:32 -0500</pubDate>
+      
+      <guid>http://csgsg.github.io/teatime/</guid>
+      <description>©Tango
+Schedule need to be integrated later
+Order Food  You may order food and drinks by phone, the Internet or visiting the restaurants/stores in advance. You don&amp;rsquo;t have to wait until Friday to place the food order. Food delivery service is recommended for saving your time. You may request the delivery time as 2:15 pm, instead of 2:30 pm to avoid the trouble of late delivery. You can get a temporary parking permit from Christine if the food delivery service is not available and you would need to pick up from the restaurants/stores.</description>
+    </item>
     
   </channel>
 </rss>
