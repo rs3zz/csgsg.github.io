@@ -26,8 +26,25 @@
       <pubDate>Tue, 23 Jan 2018 09:56:32 -0500</pubDate>
       
       <guid>http://csgsg.github.io/teatime/</guid>
-      <description>©Tango   Schedule link (need to be integrated later)
-Order Food  You may order food and drinks by phone, the Internet or visiting the restaurants/stores in advance. You don&amp;rsquo;t have to wait until Friday to place the food order. Food delivery service is recommended for saving your time. You may request the delivery time as 2:15 pm, instead of 2:30 pm to avoid the trouble of late delivery.</description>
+      <description>Schedule    Date Time Location Host Food     This Week Friday, January 26, 2018 4:00 PM Rice Hall 4th floor Suya 🍍🍊🍌🍇🥐🍪🍮🍰🍫🥤   Last Week Friday, January 19, 2018 4:00 PM Rice Hall 4th floor Weilin Xu 🍕🍕🥤    ©Tango   Order Food  You may order food and drinks by phone, the Internet or visiting the restaurants/stores in advance. You don&amp;rsquo;t have to wait until Friday to place the food order.</description>
+    </item>
+    
+    <item>
+      <title>About CSGSG</title>
+      <link>http://csgsg.github.io/about/</link>
+      <pubDate>Mon, 22 Jan 2018 23:00:52 -0500</pubDate>
+      
+      <guid>http://csgsg.github.io/about/</guid>
+      <description>The CSGSG serves as the assembly of all graduate students in the Department of Computer Science at the University of Virginia. All graduate students, Master’s and PhD, within the department of computer science or in the computer engineering program are automatically members of the CSGSG.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://csgsg.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 22 Jan 2018 17:19:54 -0500</pubDate>
+      
+      <guid>http://csgsg.github.io/posts/my-first-post/</guid>
+      <description>Write something here.</description>
     </item>
     
   </channel>
